@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527006622331",
+    "project_id": "taskstream-244e4",
+    "storage_bucket": "taskstream-244e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527006622331:android:02cb4d2486e8b7eabb78de",
+        "android_client_info": {
+          "package_name": "com.Brunda.taskstream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527006622331-eluvmcvqancvgbqe82p6qpmjndtcrng6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU0I-qIZhPaS-6xxuu6CfYdbtQiQeEAmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527006622331-eluvmcvqancvgbqe82p6qpmjndtcrng6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
